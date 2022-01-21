@@ -131,6 +131,7 @@ a {
     border-radius: 25px;
     color: white;
     padding: 4vh 0;
+    min-width: 40vh;
 }
 
 .fourth-content-text {
